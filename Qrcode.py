@@ -1,5 +1,5 @@
-import pyqrcode
-import png
+import pyqrcode #pip install pyqrcode
+import png #pip install png
 from pyqrcode import QRCode
 
 QRstring = input("website :")  #paste any URL
